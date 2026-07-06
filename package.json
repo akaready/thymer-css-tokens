@@ -1,0 +1,22 @@
+{
+	"name": "thymer-css-tokens",
+	"version": "1.0.0",
+	"private": false,
+	"type": "module",
+	"description": "Machine-readable CSS custom properties for every built-in Thymer theme. Community resource — not a plugin.",
+	"license": "MIT",
+	"scripts": {
+		"rip": "node rip-theme-tokens.mjs --all --quiet"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/akaready/thymer-css-tokens"
+	},
+	"keywords": [
+		"thymer",
+		"css",
+		"design-tokens",
+		"theme",
+		"colors"
+	]
+}

@@ -1,0 +1,159 @@
+{
+  "rippedAt": "July 6, 2026",
+  "themeCount": 15,
+  "rippedCount": 15,
+  "availableThemes": [
+    "basic-dark-omarchy-auto",
+    "basic-light-omarchy-auto",
+    "thymer-dark",
+    "thymer-dark-basalt-bedrock",
+    "thymer-dark-early-ember",
+    "thymer-dark-neon-noir",
+    "thymer-dark-night",
+    "thymer-dark-paper",
+    "thymer-dark-sans",
+    "thymer-dark-tokyo-techno",
+    "thymer-light",
+    "thymer-light-dark",
+    "thymer-light-paper",
+    "thymer-light-sans",
+    "thymer-light-warm-sans"
+  ],
+  "rips": [
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "basic-dark-omarchy-auto",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 878,
+        "colorVariables": 461
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "basic-light-omarchy-auto",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 883,
+        "colorVariables": 472
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 874,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-basalt-bedrock",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 880,
+        "colorVariables": 463
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-early-ember",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 874,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-neon-noir",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 878,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-night",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 874,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-paper",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 880,
+        "colorVariables": 467
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-sans",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 874,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-dark-tokyo-techno",
+      "appearance": "dark",
+      "stats": {
+        "totalVariables": 874,
+        "colorVariables": 460
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-light",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 879,
+        "colorVariables": 471
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-light-dark",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 881,
+        "colorVariables": 473
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-light-paper",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 883,
+        "colorVariables": 474
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-light-sans",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 879,
+        "colorVariables": 471
+      }
+    },
+    {
+      "rippedAt": "July 6, 2026",
+      "themeId": "thymer-light-warm-sans",
+      "appearance": "light",
+      "stats": {
+        "totalVariables": 885,
+        "colorVariables": 584
+      }
+    }
+  ]
+}
