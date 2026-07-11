@@ -4,6 +4,14 @@ A machine-readable catalog of **CSS custom properties** for every built-in Thyme
 
 > **This is a community resource, not a plugin.** Installable plugins live in separate `thymer-<name>` repos (e.g. [thymer-collection-colors](https://github.com/akaready/thymer-collection-colors)). This repo is JSON + a refresh script only.
 
+Maintained with 🤍 for the Thymer community. If this resource is helpful, consider supporting ongoing work with a <a href="https://buymeacoffee.com/akaready" target="_blank" rel="noopener noreferrer">coffee</a> ☕.
+
+<p align="left">
+  <a href="https://buymeacoffee.com/akaready" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee">
+  </a>
+</p>
+
 The [Thymer plugin SDK](https://github.com/thymerapp/thymer-plugin-sdk) does not document UI CSS variables. Plugin authors still need to know what Thymer exposes — `--text-default`, `--logo-color`, `--enum-blue-fg`, and hundreds more. This repo rips those definitions directly from Thymer's shipped stylesheet so you don't have to guess or scrape the DOM.
 
 **Public repo:** [github.com/akaready/thymer-css-tokens](https://github.com/akaready/thymer-css-tokens)  
