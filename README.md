@@ -9,6 +9,8 @@ The [Thymer plugin SDK](https://github.com/thymerapp/thymer-plugin-sdk) does not
 **Public repo:** [github.com/akaready/thymer-css-tokens](https://github.com/akaready/thymer-css-tokens)  
 **Maintained from:** [thymer-plugins](https://github.com/akaready/thymer-plugins) (`library/css-tokens/`)
 
+![Ripped theme token JSON files](./css-tokens.png)
+
 ---
 
 ## What's in here
